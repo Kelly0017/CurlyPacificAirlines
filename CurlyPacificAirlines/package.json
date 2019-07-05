@@ -1,13 +1,9 @@
 {
-  "name": "airline-checkin-system",
+  "name": "curlypacificairlines",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sania-jawaid/airline-checkin-system.git"
-  },
-  "license": "MIT",
-  "scripts": {
-    "start": "webpack-dev-server --open"
+    "url": "https://github.com/Kelly0017/CurlyPacificAirlines"
   },
   "dependencies": {
     "@babel/preset-env": "^7.4.2",
