@@ -5,6 +5,8 @@
     "type": "git",
     "url": "https://github.com/Kelly0017/CurlyPacificAirlines"
   },
+  "scripts": {
+    "start": "webpack-dev-server --open"},
   "dependencies": {
     "@babel/preset-env": "^7.4.2",
     "babel-preset-env": "^1.7.0",
